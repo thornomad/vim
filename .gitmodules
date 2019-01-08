@@ -1,3 +1,6 @@
 [submodule "pack/thornomad/start/vim-rails"]
 	path = pack/thornomad/start/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "pack/thornomad/start/vim-fugitive"]
+	path = pack/thornomad/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
